@@ -1,0 +1,24 @@
+{
+  "name": "icyAIO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "ncp": "^2.0.0"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.44.1",
+    "axios": "^1.7.2",
+    "mkdir": "^0.0.2",
+    "playwright": "^1.44.1"
+  },
+  "pkg": {
+    "scripts": "./node_modules/axios/dist/node/axios.cjs"
+  }
+}
