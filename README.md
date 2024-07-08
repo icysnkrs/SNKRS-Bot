@@ -1,6 +1,6 @@
 Welcome to IcySNKRS BOT!
 
-⭐ First steps (after download the bot):
+⭐ First steps:
 
 1. Start it with your IDE (VS,Jetbrains etc.)
 2. You have to add a region, available for now only XP/SEA (Ex: AU/CA/RO/SG/PH/VN etc.)
