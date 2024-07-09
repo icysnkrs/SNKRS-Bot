@@ -1,5 +1,11 @@
 Welcome to IcySNKRS BOT!
 
+Installation: 
+1. Install node.js
+2. npm install -g axios
+3. npm install @playwright@1.44.1
+4. npm install pkg (in case you want to use it as .exe)
+
 ⭐ First steps:
 
 1. Start it with your IDE (VS,Jetbrains etc.)
